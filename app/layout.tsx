@@ -30,10 +30,10 @@ export default function RootLayout({
             // logoImageUrl: "/icons/yoom-logo.svg",
           },
           variables: {
-            colorText: "#fff",
+            colorText: "#1C1F2E",
             colorPrimary: "#0E78F9",
-            colorBackground: "#1C1F2E",
-            colorInputBackground: "#252A41",
+            colorBackground: "#fff",
+            colorInputBackground: "#fff",
             colorInputText: "#fff",
           },
         }}
